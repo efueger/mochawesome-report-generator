@@ -7,4 +7,4 @@ before_install:
 - npm install react-addons-test-utils
 addons:
   code_climate:
-    repo_token: d72f1e1053fa2af89bef224409c23b0a2910e71bf7fd4cf4f1c73e96c84b427a
+    repo_token: b9ee922e13fa2b797410c16993ecaf91fe076ad0d12ce4d191ae92b1c1669a01
